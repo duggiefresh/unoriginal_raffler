@@ -1,3 +1,0 @@
-UnoriginalRaffler.Router.map(function() {
-
-});
