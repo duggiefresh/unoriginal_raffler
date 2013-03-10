@@ -6,4 +6,4 @@
 #= require ember-data
 #= require_self
 #= require unoriginal_raffler
-UnoriginalRaffler = Ember.Application.create
+UnoriginalRaffler = Ember.Application.create()
